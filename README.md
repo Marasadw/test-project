@@ -4,7 +4,7 @@ Este es mi repositorio es un ejemplo que estamos realizando en clase para aprend
 
 ```java
 public class Miclase{
-    ...
+    ....
 }
 ```
 [1]: http://github.com
